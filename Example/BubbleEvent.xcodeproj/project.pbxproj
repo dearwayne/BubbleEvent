@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0634C150FE4791C51ABE6E4D /* BubbleEvent.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BubbleEvent.podspec; path = ../BubbleEvent.podspec; sourceTree = "<group>"; };
+		0634C150FE4791C51ABE6E4D /* BubbleEvent.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BubbleEvent.podspec; path = ../BubbleEvent.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		201F26E3464B44C2BC0DADBC /* Pods-BubbleEvent_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BubbleEvent_Tests.debug.xcconfig"; path = "Target Support Files/Pods-BubbleEvent_Tests/Pods-BubbleEvent_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		2290A23462055B0058569FC2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		382C76C0AD15117BD10F4DA4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2290A23462055B0058569FC2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		382C76C0AD15117BD10F4DA4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		52C11F9F34E671ED2D3487D8 /* Pods_BubbleEvent_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BubbleEvent_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* BubbleEvent_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BubbleEvent_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				201F26E3464B44C2BC0DADBC /* Pods-BubbleEvent_Tests.debug.xcconfig */,
 				B6D2C751E7DFA16867C8E377 /* Pods-BubbleEvent_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

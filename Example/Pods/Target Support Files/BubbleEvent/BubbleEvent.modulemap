@@ -1,0 +1,6 @@
+framework module BubbleEvent {
+  umbrella header "BubbleEvent-umbrella.h"
+
+  export *
+  module * { export * }
+}

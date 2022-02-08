@@ -1,0 +1,16 @@
+PODS:
+  - BubbleEvent (0.1.0)
+
+DEPENDENCIES:
+  - BubbleEvent (from `../`)
+
+EXTERNAL SOURCES:
+  BubbleEvent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BubbleEvent: 53e34403c43c4c8a2ecbe845e64ea4b1ab8fd1d0
+
+PODFILE CHECKSUM: 3b3d5e4d4c380572a4f16f217025d734578343ac
+
+COCOAPODS: 1.11.2

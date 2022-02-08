@@ -1,6 +1,6 @@
 # BubbleEvent
 
-[![CI Status](https://img.shields.io/travis/weiqizheng/BubbleEvent.svg?style=flat)](https://travis-ci.org/weiqizheng/BubbleEvent)
+[![CI Status](https://img.shields.io/travis/dearwayne/BubbleEvent.svg?style=flat)](https://travis-ci.org/dearwayne/BubbleEvent)
 [![Version](https://img.shields.io/cocoapods/v/BubbleEvent.svg?style=flat)](https://cocoapods.org/pods/BubbleEvent)
 [![License](https://img.shields.io/cocoapods/l/BubbleEvent.svg?style=flat)](https://cocoapods.org/pods/BubbleEvent)
 [![Platform](https://img.shields.io/cocoapods/p/BubbleEvent.svg?style=flat)](https://cocoapods.org/pods/BubbleEvent)
@@ -22,7 +22,7 @@ pod 'BubbleEvent'
 
 ## Author
 
-weiqizheng, 334064275@qq.com
+  dearwayne, 334064275@qq.com
 
 ## License
 
